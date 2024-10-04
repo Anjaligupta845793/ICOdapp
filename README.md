@@ -11,6 +11,12 @@ This project is a decentralized application (DApp) for conducting Initial Coin O
 - Handle network changes and account changes
 - Responsive and user-friendly interface
 
+## Access the DApp
+
+You can access the ICO DApp at the following link:
+
+[ICO DApp](https://66ffa748211906d791895713--gleaming-raindrop-33f91a.netlify.app/)
+
 ## Technologies Used
 
 - **React**: Frontend library for building user interfaces.
